@@ -18,6 +18,8 @@ After installation, and some usage working good, sometimes, some shell window ap
 this was the start of my journey to find this miner.
 
 # DATA
+
+* FL STUDIO : https://drive.proton.me/urls/HZ3478Y8F0#U3QUvNMy1kSR
 * PDF were written in French, cause it's my native langage. Feel free to translate it, maybe with Google translate or Deepl, if needed.
 * Some screeshots
 * Files installed by the initial *setup.msi* and *Data.cab*
