@@ -1,3 +1,9 @@
+# WARNING
+**Do not use this script (cleaner.bat) to download a version of FL Studio (link below) thinking you are immune to malware.**
+
+**This information and data is made available for educational purposes. Use with caution.**
+
+
 # Table of content
 * [Miner](#miner)
 * [Context](#context)
