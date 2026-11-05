@@ -53,7 +53,7 @@ del /f /q %systemroot%\bb.bat %systemroot%\mid.bin %systemroot%\mid.ps1 %systemr
 
 # PREVIEW
 Miner can be seen with ProcessExplorer : 
-![test](https://github.com/v3t3a/MINER/blob/main/miner/processExplorer.jpg?raw=true)
+![test](https://github.com/v3t3a/MINER/blob/main/miner/processExplorer.jpg)
 
 Not visible with taskManager : 
 ![test](https://github.com/v3t3a/MINER/blob/main/miner/processExplorer%20-%20whenOpeningTaskManager.jpg)
